@@ -19,7 +19,7 @@
 </br>
 
 ## Sobre o dev:
-Sou autodidato, nem sempre gostei de estudar porem sempre soube que era nescessario, aprendi a amar a estudar depois que conheci um pouco mais sobre programação. Alem de amar tecnologia, gosto de anda de skate com meus amigos e ouvir musicas!
+Sou autodidata, nem sempre gostei de estudar porem sempre soube que era nescessario, aprendi a amar a estudar depois que conheci um pouco mais sobre programação. Alem de amar tecnologia, gosto de anda de skate com meus amigos e ouvir musicas!
 
 
 
