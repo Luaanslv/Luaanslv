@@ -27,7 +27,7 @@
 ## Sobre o dev:
 
 <p>- Sou autodidata, aprendi a gostar de estudar depois que conheci um pouco sobre a programação. Amo tecnologia desde pequeno sempre me divertia com os jogos do friv,clickjogos,miecraft...</p>
-<p>- Fui me interessar pela programação com 19 anos, si me pergunta-se o que eu queria ser alguns anos atrás, eu não saberia o que responder, Hoje em dia eu sei quero ser programador e apesar do caminho ser dificil e muitas vezes estressante,  é muito bom quando o codigo funciona a vibração é a mesma de um jogo de futebol ou de basquete.</p>
+<p>- Fui me interessar pela programação com 19 anos, si me pergunta-se o que eu queria ser alguns anos atrás, eu não saberia o que responder, Hoje em dia eu sei que quero ser programador e apesar do caminho ser dificil e muitas vezes estressante,  é muito bom quando o codigo funciona a vibração é a mesma de um jogo de futebol ou de basquete.</p>
 <p>- Para quem não sabia nada sobre programação ver o tanto que eu evolui em alguns meses so me motiva mais.<p/>
 
 ### Diversão
