@@ -19,7 +19,9 @@
 </br>
 
 ## Sobre o dev:
-Sou autodidata, nem sempre gostei de estudar porem sempre soube que era nescessario, aprendi a amar a estudar depois que conheci um pouco mais sobre programação. Alem de amar tecnologia, gosto de anda de skate com meus amigos e ouvir musicas!
+Sou autodidata, aprendi a gostar de estudar depois que conheci um pouco mais sobre programação. Alem de amar tecnologia, ando de skate com meus amigos e nada melhor do que ouvir musicas!
+Quando tenho tempo assisto um dos meu animes preferidos o One piece.
+![]https://gfycat.com/ablewarmflyinglemur
 
 
 
