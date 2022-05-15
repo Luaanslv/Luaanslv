@@ -18,7 +18,7 @@
 <img style = "text-align:center; width:100px; margin-left:20px" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
 <img style = "text-align:center; width:100px; margin-left:20px" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 <img style = "text-align:center; width:100px; margin-left:20px" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
-<img style = "text-align:cente; width:100px; margin-right:20px" alt="javascrip" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+<img style = "text-align:cente; width:100px; margin-right:100px" alt="javascrip" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 <img style = "text-align:center; width:100px; margin-left:20px" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
 </div>
 </br>
