@@ -14,17 +14,15 @@
 ## Tecnologias que eu estudo
 
 <div style="display:inline-block"></br>
-<img style = "text-align:center; width:80px;" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-
-<img style = "text-align:center; width:80px; " alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"> 
-
-<img style = "text-align:center; width:80px;" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> 
-
-<img style = "text-align:center; width:80px; " alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"> 
-
-<img style = "text-align:cente; width:80px;" alt="javascrip" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> 
-
-<img style = "text-align:center; width:80px;" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+<ul>
+  <li><img style = "text-align:center; width:80px;" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"></li>
+  <li><img style = "text-align:center; width:80px; " alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"></li>
+  <li><img style = "text-align:center; width:80px;" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> </li>
+  <li><img style = "text-align:center; width:80px; " alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"> 
+</li>
+  <li><img style = "text-align:cente; width:80px;" alt="javascrip" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></li>
+  <li><img style = "text-align:center; width:80px;" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"></li>
+</ul>
 </div>
 </br>
 
