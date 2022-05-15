@@ -4,8 +4,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luaan.dev/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-da-silva-7b08aa216/)
 
-<div stylr="margin-bottom:10px">
-  <div style="display: flex; align-items: flex-start;">
+<div>
+  <div style="display: flex; align-items: flex-start; margin-bottom:20px">
     <img src="https://github-readme-stats.vercel.app/api?username=Luaanslv&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luaanslv&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
   </div>
 </div>
@@ -14,13 +14,13 @@
 ## Tecnologias que eu estudo
 
 <div></br>
-<ul style="display:flex; flex-direction:row;">
-  <li><img style = "text-align:center; width:80px;" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"></li>
-  <li><img style = "text-align:center; width:80px; " alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"></li>
-  <li><img style = "text-align:center; width:80px;" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> </li>
-  <li><img style = "text-align:center; width:80px; " alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"> 
+<ul style="display:flex; flex-direction:row; list-style:none;">
+  <li><img style = "text-align:center; width:80px; margin-right:50px" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"></li>
+  <li><img style = "text-align:center; width:80px; margin-right:50px" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"></li>
+  <li><img style = "text-align:center; width:80px; margin-right:50px" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> </li>
+  <li><img style = "text-align:center; width:80px; margin-right:50px" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"> 
 </li>
-  <li><img style = "text-align:cente; width:80px;" alt="javascrip" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></li>
+  <li><img style = "text-align:cente; width:80px; margin-right:50px" alt="javascrip" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></li>
   <li><img style = "text-align:center; width:80px;" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"></li>
 </ul>
 </div>
