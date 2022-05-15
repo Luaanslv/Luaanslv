@@ -14,7 +14,7 @@
 ## Tecnologias que eu estudo
 
 <div style="display:inline-block"></br>
-<ul>
+<ul style="display:flex">
   <li><img style = "text-align:center; width:80px;" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"></li>
   <li><img style = "text-align:center; width:80px; " alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"></li>
   <li><img style = "text-align:center; width:80px;" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> </li>
