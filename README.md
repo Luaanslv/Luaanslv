@@ -37,7 +37,7 @@
 
 ### Diversão
    <p>-Alem de programar, eu ando de skate com meus amigos e nada melhor do que ouvir musicas na sessão de skate. :skateboard: :headphones: :heart: </p>
-   <p>-Amo assistir animes uns dos meu preferidos é o One piece, meu personagem favorito é o zoro!</p>
+   <p>-Gosto de assistir animes, uns dos meu preferidos é o One piece, meu personagem favorito é o zoro!</p>
    <p><img src="https://i.redd.it/dugp7t2x67631.gif" alt="one piece" width="900" align="center"></p>
 
 
