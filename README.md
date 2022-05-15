@@ -1,15 +1,20 @@
 
 # Oie! Meu nome é Luan silva 👽  
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luaan.dev/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-da-silva-7b08aa216/)
-[![Linkedin](https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/#1417)
-
 <div>
   <div style="display: flex; align-items: flex-start; margin-bottom:20px">
     <img src="https://github-readme-stats.vercel.app/api?username=Luaanslv&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luaanslv&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
   </div>
 </div>
+
+
+## Minhas redes sociais
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luaan.dev/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-da-silva-7b08aa216/)
+[![Linkedin](https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/#1417)
+<br>
+<br>
 
 
 ## Tecnologias que eu estudo
