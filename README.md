@@ -13,16 +13,14 @@
 
 ## Tecnologias que eu estudo
 
-<div></br>
-<ul style="display:flex; flex-direction:row; list-style:none;">
-  <li><img style = "text-align:center; width:80px; margin-right:50px" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"></li>
-  <li><img style = "text-align:center; width:80px; margin-right:50px" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"></li>
-  <li><img style = "text-align:center; width:80px; margin-right:50px" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> </li>
-  <li><img style = "text-align:center; width:80px; margin-right:50px" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"> 
-</li>
-  <li><img style = "text-align:cente; width:80px; margin-right:50px" alt="javascrip" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></li>
-  <li><img style = "text-align:center; width:80px;" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"></li>
-</ul>
+<div style="display-inline-blok"></br>
+ <img style = "text-align:center; width:80px; margin-right:50px" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+ <img style = "text-align:center; width:80px; margin-right:50px" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+ <img style = "text-align:center; width:80px; margin-right:50px" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img style = "text-align:center; width:80px; margin-right:50px" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"> 
+ <img style = "text-align:cente; width:80px; margin-right:50px" alt="javascrip" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+ <img style = "text-align:center; width:80px;" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+
 </div>
 </br>
 
