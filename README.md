@@ -32,12 +32,12 @@
 
 ## Sobre o dev:
 
-<p>- Sou autodidata, aprendi a gostar de estudar depois que conheci um pouco sobre a programação. Amo tecnologia desde pequeno sempre me divertia com os jogos do friv, clickjogos, minecraft...</p>
+<p>- Tenho como objetivo me espicalizar em Front-end. Aprendi a gostar de estudar depois que conheci a programação. Amo tecnologia desde pequeno sempre me divertia com os jogos do friv, clickjogos, minecraft...</p>
 <p>- Fui me interessar pela programação com 19 anos. Apesar do caminho de Desenvolvedor ser dificil e muitas vezes estressante, é muito bom quando o codigo funciona a vibração é a mesma de um jogo de futebol ou de basquete.</p>
 
 ### Diversão
-   <p>- Eu ando de skate com meus amigos e nada melhor do que ouvir musicas na sessão de skate. :skateboard: :headphones: :heart: </p>
-   <p>- Um dos meu animes preferidos é o One piece, meu personagem favorito é o zoro!</p>
+   <p>-Alem de programar, eu ando de skate com meus amigos e nada melhor do que ouvir musicas na sessão de skate. :skateboard: :headphones: :heart: </p>
+   <p>-Amo assistir animes uns dos meu preferidos é o One piece, meu personagem favorito é o zoro!</p>
    <p><img src="https://i.redd.it/dugp7t2x67631.gif" alt="one piece" width="900" align="center"></p>
 
 
