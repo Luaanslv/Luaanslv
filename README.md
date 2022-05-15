@@ -3,7 +3,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luaan.dev/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-da-silva-7b08aa216/)
-[![Linkedin](https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/#1417)
+[![Linkedin](https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/#1417)
 
 <div>
   <div style="display: flex; align-items: flex-start; margin-bottom:20px">
