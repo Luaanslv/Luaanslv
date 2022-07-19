@@ -25,7 +25,6 @@
  <img style = " width:80px; margin-right:50px" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img style = " width:80px; margin-right:50px" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">      
  <img style = " width:80px; margin-right:50px" alt="javascrip" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
- <img style = " width:80px;" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
 
 </div>
 </br>
