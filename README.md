@@ -20,7 +20,6 @@
 ## Tecnologias
 - HTML e CSS
 - JAVA
-
 </div>
 </br>
 
