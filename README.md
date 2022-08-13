@@ -17,14 +17,9 @@
 <br>
 
 
-## Tecnologias que eu estudo
-
-<div style="display-inline-blok; margin:auto"></br>
- <img style = " width:80px; margin-right:50px" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">   
- <img style = " width:80px; margin-right:50px" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
- <img style = " width:80px; margin-right:50px" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img style = " width:80px; margin-right:50px" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">      
- <img style = " width:80px; margin-right:50px" alt="javascrip" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+## Tecnologias
+- HTML e CSS
+- JAVA
 
 </div>
 </br>
