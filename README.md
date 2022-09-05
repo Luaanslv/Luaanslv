@@ -25,7 +25,7 @@
 
 ## Sobre o dev:
 
-<p>- Tenho como objetivo me espicalizar em Front-end.  Aprendi a gostar de estudar depois que conheci a programação. Amo tecnologia desde pequeno sempre me divertia com os jogos do friv, clickjogos, minecraft...</p>
+<p>- Aprendi a gostar de estudar depois que conheci a programação. Amo tecnologia desde pequeno sempre me divertia com os jogos do friv, clickjogos, minecraft...</p>
 <p>- Fui me interessar pela programação com 19 anos. Apesar do caminho de Desenvolvedor ser dificil e muitas vezes estressante, é muito bom quando o codigo funciona a vibração é a mesma de um jogo de futebol ou de basquete.</p>
 
 ### Diversão
